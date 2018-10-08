@@ -6,6 +6,10 @@
             "name": "3A532088",
             "email": "paileo007007@gmail.com"
         }
-    ],
+    ],"autoload": {
+    "psr-4": {
+        "Demo\\": "./src/Demo"
+    }
+},
     "require": {}
 }
